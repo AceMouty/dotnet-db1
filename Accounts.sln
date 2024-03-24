@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounts.Api", "Accounts.Api\Accounts.Api.csproj", "{6C99171D-3CF6-4A6F-8EB4-CF4BA6408593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounts.Db", "Accounts.Db\Accounts.Db.csproj", "{B85515B9-3290-4064-90AA-CF43C33CD421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C99171D-3CF6-4A6F-8EB4-CF4BA6408593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C99171D-3CF6-4A6F-8EB4-CF4BA6408593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C99171D-3CF6-4A6F-8EB4-CF4BA6408593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C99171D-3CF6-4A6F-8EB4-CF4BA6408593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85515B9-3290-4064-90AA-CF43C33CD421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85515B9-3290-4064-90AA-CF43C33CD421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85515B9-3290-4064-90AA-CF43C33CD421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85515B9-3290-4064-90AA-CF43C33CD421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
