@@ -8,6 +8,11 @@
 
 Successfully create a minimal API that uses EF Core to manage CRUD on the database.
 
+## Swagger
+
+This project is configured with Swagger. While the application is running Swagger docs can be viewed at
+http://localhost:5189/swagger/index.html
+
 ## Docker setup
 
 To setup the Database ensure that you have Docker installed and run the following command
